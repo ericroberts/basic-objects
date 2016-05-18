@@ -1,5 +1,5 @@
-# Basic Objects
-#### Eric Roberts | __@eroberts__
+## Curing your primitive obsession
+#### With help from Eric Roberts | __@eroberts__
 
 ---
 
